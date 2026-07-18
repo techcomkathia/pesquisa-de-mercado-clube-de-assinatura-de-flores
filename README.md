@@ -1,7 +1,7 @@
 # 🌸 Market Insights Lab
 ## Pesquisa de Mercado — Clube de Assinatura de Flores
 
-Bem-vindo ao repositório do projeto desenvolvido durante o **Bootcamp Full Stack**.
+Bem-vindo ao repositório do projeto desenvolvido durante o **Bootcamp Full Stack e Data Analytics**.
 
 Ao longo de **3 encontros**, construiremos uma aplicação completa para coleta de dados de uma pesquisa de mercado, armazenando as respostas no **Supabase** e preparando essas informações para análises de dados.
 
