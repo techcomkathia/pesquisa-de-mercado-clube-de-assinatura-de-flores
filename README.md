@@ -228,7 +228,7 @@ As perguntas completas podem ser consultadas abaixo.
 
 ---
 
-# Requisitos Funcionais
+# Estrutura do Formulário
 
 O formulário deverá possuir os seguintes grupos de perguntas.
 
