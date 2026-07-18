@@ -101,12 +101,35 @@ Na última etapa transformaremos o projeto em uma aplicação pronta para public
 - Layout
 - Boas práticas de UI
 - Hospedagem
+- Importação dos dados do Supabase
+- Tratamento e organização dos dados
 
 ### Entregas
 
 - Interface final
 - Aplicação responsiva
 - Projeto publicado
+
+---
+
+⏳ Semana 4 — 08/08
+Dashboards e Análise de Dados
+
+Na etapa final, utilizaremos os dados coletados pela aplicação para transformá-los em informações úteis para a tomada de decisão.
+
+## Conteúdos
+
+- Construção de gráficos
+- Desenvolvimento de dashboards
+- Análise exploratória dos resultados
+- Geração de insights para o negócio
+  
+### Entregas
+
+- Dashboard interativo
+- Visualizações dos principais indicadores
+- Análise dos resultados da pesquisa
+- Apresentação de recomendações para o cliente
 
 ---
 
