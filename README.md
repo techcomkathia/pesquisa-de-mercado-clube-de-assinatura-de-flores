@@ -154,7 +154,7 @@ As perguntas completas podem ser consultadas abaixo.
 ## 1. Perfil do Respondente
 
 - Nome (Opcional)
-- E-mail
+- E-mail (Opcional)
 - Faixa etária
 - Cidade
 - Estado
