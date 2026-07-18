@@ -149,85 +149,6 @@ As perguntas completas podem ser consultadas abaixo.
 
 ---
 
-# 📝 Estrutura do Formulário
-
-## 1. Perfil do Respondente
-
-- Nome (Opcional)
-- E-mail (Opcional)
-- Faixa etária
-- Cidade
-- Estado
-- Tipo de moradia
-
----
-
-## 2. Relação com Flores e Plantas
-
-- Frequência de compra
-- Local de compra
-- Ocasiões de compra
-
----
-
-## 3. Preferências
-
-- Flores ou plantas
-- Favoritas
-- Critérios de compra
-
----
-
-## 4. Interesse na Assinatura
-
-- Interesse
-- Frequência desejada
-- Atrativos
-
----
-
-## 5. Disposição a Pagar
-
-- Faixa de preço
-- Modelo de plano
-
----
-
-## 6. Entrega
-
-- Canal preferido
-- Forma de recebimento
-- Horário
-
----
-
-## 7. Avaliação Final
-
-- Nota de interesse (0 a 10)
-- Motivos para não contratar
-- Interesse em receber novidades
-
----
-
-# 📁 Estrutura do Projeto
-
-```
-/
-│
-├── assets/
-├── css/
-│   └── style.css
-│
-├── js/
-│   ├── script.js
-│   └── supabase.js
-│
-├── index.html
-└── README.md
-```
-
----
-
 # Estrutura do Formulário
 
 O formulário deverá possuir os seguintes grupos de perguntas.
@@ -466,6 +387,25 @@ Campo de texto.
 
 - Sim
 - Não
+
+---
+
+# 📁 Estrutura do Projeto
+
+```
+/
+│
+├── assets/
+├── css/
+│   └── style.css
+│
+├── js/
+│   ├── script.js
+│   └── supabase.js
+│
+├── index.html
+└── README.md
+```
 
 ---
 
