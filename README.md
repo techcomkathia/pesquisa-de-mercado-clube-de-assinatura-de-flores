@@ -228,6 +228,248 @@ As perguntas completas podem ser consultadas abaixo.
 
 ---
 
+# Requisitos Funcionais
+
+O formulário deverá possuir os seguintes grupos de perguntas.
+
+---
+
+## 1. Perfil do Respondente
+
+### Nome (Opcional)
+
+Tipo:
+
+```
+text
+```
+
+---
+
+### E-mail (opcional)
+
+Tipo:
+
+```
+email
+```
+
+Campo obrigatório.
+
+---
+
+### Faixa etária
+
+Opções:
+
+- Menos de 18 anos
+- 18 a 24 anos
+- 25 a 34 anos
+- 35 a 44 anos
+- 45 a 54 anos
+- 55 anos ou mais
+
+---
+
+### Cidade
+
+Tipo:
+
+```
+text
+```
+
+---
+
+### Estado
+
+Select contendo todos os estados brasileiros.
+
+---
+
+### Tipo de moradia
+
+- Casa
+- Apartamento
+- Condomínio
+- Outro
+
+---
+
+# 2. Relação com Flores e Plantas
+
+### Com que frequência você compra flores ou plantas?
+
+- Nunca
+- Raramente
+- Algumas vezes por ano
+- Mensalmente
+- Quinzenalmente
+- Semanalmente
+
+---
+
+### Onde costuma comprar?
+
+Permitir múltipla escolha.
+
+- Floriculturas
+- Supermercados
+- Feiras
+- Garden Centers
+- Internet
+- Redes sociais
+- Outro
+
+---
+
+### Para quais ocasiões costuma comprar?
+
+Permitir múltipla escolha.
+
+- Presentes
+- Decoração
+- Datas comemorativas
+- Eventos
+- Uso pessoal
+- Outro
+
+---
+
+# 3. Preferências
+
+### Você prefere
+
+- Flores naturais
+- Plantas
+- Ambos
+
+---
+
+### Quais flores ou plantas você mais gosta?
+
+Campo de texto.
+
+---
+
+### O que considera mais importante na compra?
+
+Permitir selecionar até três opções.
+
+- Preço
+- Qualidade
+- Durabilidade
+- Entrega rápida
+- Aparência
+- Variedade
+- Atendimento
+
+---
+
+# 4. Interesse na Assinatura
+
+### Você teria interesse em um serviço de assinatura?
+
+- Sim
+- Talvez
+- Não
+
+---
+
+### Com que frequência gostaria de receber?
+
+- Semanalmente
+- Quinzenalmente
+- Mensalmente
+- Apenas em datas especiais
+
+---
+
+### O que mais atrairia você nesse serviço?
+
+Permitir múltipla escolha.
+
+- Praticidade
+- Economia
+- Curadoria especializada
+- Flores diferentes a cada entrega
+- Entrega em casa
+- Flexibilidade
+- Outro
+
+---
+
+# 5. Disposição a Pagar
+
+### Quanto estaria disposto(a) a investir por mês?
+
+- Até R$ 50
+- R$ 51 a R$ 80
+- R$ 81 a R$ 120
+- R$ 121 a R$ 180
+- Acima de R$ 180
+
+---
+
+### Qual modelo de plano você prefere?
+
+- Plano fixo mensal
+- Plano flexível (pausar quando desejar)
+- Compra avulsa
+- Não sei
+
+---
+
+# 6. Entrega
+
+### Canal preferido para contratar
+
+- Site
+- WhatsApp
+- Aplicativo
+- Loja física
+- Instagram
+
+---
+
+### Forma de recebimento
+
+- Entrega em casa
+- Retirada na loja
+
+---
+
+### Melhor período para entrega
+
+- Manhã
+- Tarde
+- Noite
+- Indiferente
+
+---
+
+# 7. Avaliação Final
+
+### De 0 a 10, qual a chance de contratar esse serviço?
+
+Utilizar um slider (`range`) ou campo numérico.
+
+---
+
+### O que impediria você de contratar esse serviço?
+
+Campo de texto.
+
+---
+
+### Deseja receber novidades sobre o lançamento?
+
+- Sim
+- Não
+
+---
+
+
 # 🗄️ Banco de Dados (Supabase)
 
 > 🚧 Esta seção será construída na **Semana 2**.
