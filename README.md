@@ -275,8 +275,6 @@ Campo de texto.
 
 ### O que considera mais importante na compra?
 
-Permitir selecionar até três opções.
-
 - Preço
 - Qualidade
 - Durabilidade
@@ -373,7 +371,7 @@ Permitir múltipla escolha.
 
 ### De 0 a 10, qual a chance de contratar esse serviço?
 
-Utilizar um slider (`range`) ou campo numérico.
+Permitir selecionar apenas um valor
 
 ---
 
