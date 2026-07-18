@@ -112,7 +112,7 @@ Na última etapa transformaremos o projeto em uma aplicação pronta para public
 
 ---
 
-⏳ Semana 4 — 08/08
+##⏳ Semana 4 — 08/08
 Dashboards e Análise de Dados
 
 Na etapa final, utilizaremos os dados coletados pela aplicação para transformá-los em informações úteis para a tomada de decisão.
